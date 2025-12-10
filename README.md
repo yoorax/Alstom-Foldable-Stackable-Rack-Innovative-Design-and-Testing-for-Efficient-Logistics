@@ -1,0 +1,2 @@
+# Alstom-Foldable-Stackable-Rack-Innovative-Design-and-Testing-for-Efficient-Logistics
+R&amp;D Internship at ALTEN: Engineered a novel foldable packaging solution for Alstom achieving 94.7% volume reduction in return logistics. Executed full A-Z development: advanced CAD modeling (SolidWorks), FEA structural validation (improving Factor of Safety to 12), &amp; built a Python/Tkinter automation tool to generate manufacturing specs instantly.
