@@ -1,4 +1,3 @@
-##  Project Summary
 #  Porject : Alstom-Foldable-Stackable-Rack-for-Railway-Packaging  
 #  Mission : Innovative-Design-Optimization-and-Testing-for-Efficient-Logistics
 
